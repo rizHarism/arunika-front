@@ -35,9 +35,9 @@ export default function LoginPage() {
             <div className="flex items-center justify-center p-10">
                 <div className="w-full max-w-md space-y-6">
                     <h1 className="text-3xl font-bold text-center text-brand">
-                        Selamat Datang
+                        Arunika Saha Vikasa
                     </h1>
-                    <p className="text-center text-gray-500">Masuk ke akun ERP kamu</p>
+                    <p className="text-center text-gray-500">Silahkan Masuk ke akun kamu</p>
 
                     <form className="space-y-4" onSubmit={handleLogin}>
                         <div>
